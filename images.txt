@@ -1,5 +1,5 @@
 immich-server
 #支持私库
-ghcr.io/immich-app/immich-server
+ghcr.io/immich-app/immich-server：v1.111.0
 #支持指定架构
 --platform=linux/amd64 immich-app/immich-server
