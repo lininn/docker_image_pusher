@@ -1,4 +1,2 @@
 immich-server
-immich-app/immich-server：v1.111.0
-#支持指定架构
---platform=linux/amd64 altran1502/immich-server
+ghcr.io/immich-app/immich-server:release
